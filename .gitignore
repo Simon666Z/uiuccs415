@@ -1,3 +1,15 @@
-Intermediate/
-Saved/
-DerivedDataCache/
+TheMatrixSequel/Binaries/
+TheMatrixSequel/DerivedDataCache/
+TheMatrixSequel/Intermediate/
+TheMatrixSequel/Saved/
+
+Demo.mp4
+
+# Unreal generated files
+TheMatrixSequel/Binaries/
+TheMatrixSequel/DerivedDataCache/
+TheMatrixSequel/Intermediate/
+TheMatrixSequel/Saved/
+
+# Demo video
+Demo.mp4
